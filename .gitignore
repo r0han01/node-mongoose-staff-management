@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Optional: lock file if you don't want it tracked (this is generally recommended to leave it out of .gitignore)
+# package-lock.json
+
+# Python virtual environment (if present)
+.venv/
+
+# Log files
+*.log
+logs/
+
+# Build output (if using a build tool like Webpack, Babel, etc.)
+dist/
+build/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# MacOS specific files (if you're on macOS)
+.DS_Store
+
+# Windows specific files
+Thumbs.db
