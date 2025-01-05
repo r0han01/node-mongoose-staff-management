@@ -1,5 +1,6 @@
 ### MERN Stack MongoDB Project
 - This project is a basic MERN stack application that utilizes MongoDB as its database. The backend is built using Node.js and Mongoose, providing a clean and efficient way to interact with MongoDB.
+###
 ![Screenshot from 2025-01-04 23-38-03](https://github.com/user-attachments/assets/bbf8ad19-343c-4d26-b843-365a680bf4ed)
 
 #### Prerequisites
